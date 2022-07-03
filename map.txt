@@ -1,0 +1,4 @@
+Goal:
+ execCode(workStation,_h596)
+Producing attack graph through GraphViz
+If successfully produced, the attack graph should be in AttackGraph.pdf
